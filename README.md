@@ -2,7 +2,6 @@
 # CODTECH IT Solutions - Task 1: Data Cleaning Automation
 **Name:** Adnan Abbas  
 **Intern ID:** CITS2470
-
 **Domain:** Data Analytics  
 **Duration:** 6 Weeks  
 
