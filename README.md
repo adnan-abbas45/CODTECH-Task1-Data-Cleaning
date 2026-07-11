@@ -3,7 +3,7 @@
 **Name:** Adnan Abbas  
 **Intern ID:** CITS2470
 **Domain:** Data Analytics  
-**Duration:** 6 Weeks  
+
 
 ## Project Overview
 This project involves cleaning and processing a raw Amazon Product dataset using Python and the Pandas library. The primary objective is to transform unstructured, messy e-commerce data into a standardized format ready for exploratory data analysis and dashboard visualization.
